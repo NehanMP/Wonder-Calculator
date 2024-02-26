@@ -1,6 +1,6 @@
 # Wonder-Calculator
 
-A simple calculator designed with basic mathematical operations such as:
+A simple calculator designed as the 1st semester project in my Foundation Degree program at IIT, with basic mathematical operations such as:
 <li>Display Highest value</li>
 <li>Display Lowest value</li>
 <li>Display Average value</li>
