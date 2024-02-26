@@ -10,4 +10,4 @@ A simple calculator designed with basic mathematical operations such as:
 Nehan Perera
 
 ## Note
-To run the program clone the repo and execute Wonder_Calculator.py
+To run the program clone the repository and execute Wonder_Calculator.py in your local machine
