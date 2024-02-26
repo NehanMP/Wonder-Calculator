@@ -7,7 +7,10 @@ A simple calculator designed with basic mathematical operations such as:
 <li>Display Even numbers</li>
 
 ## Author
-Nehan Perera
+<li>Nehan Perera</li>
 
-## Note
-To run the program clone the repository and execute Wonder_Calculator.py in your local machine
+## License
+<li>This project is licensed under the MIT License - see the LICENSE.md file for details.</li>
+
+## Acknowledgments
+<li>Special thanks to IIT institution</li>
